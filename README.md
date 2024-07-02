@@ -25,7 +25,7 @@ To run the analysis, you need the following Python packages:
 - Seaborn
 - Scikit-Learn
 - Jupyter
-<br/>
+
 ## The EDA process involves several steps:
 Loading the Data: Load the dataset and inspect its structure.
 <br/>
@@ -40,13 +40,13 @@ Data Visualization: Create visualizations to understand the distribution of data
 - Scatter plots
 - Pair plots
 - Correlation heatmaps
-<br/>
+
 ## Key Findings
   Histograms: Show the distribution of each feature.
 <br/>
   Scatter Matrix: Displays pairwise relationships between features.
 <br/>
   Correlation Heatmap: Highlights correlations between features.
-<br/>  
+
 ## Conclusion
 This EDA provides insights into the Iris dataset and helps understand the relationships between different features. The visualizations and descriptive statistics are useful for further machine learning tasks, such as classification.
