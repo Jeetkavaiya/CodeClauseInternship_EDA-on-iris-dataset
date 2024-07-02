@@ -1,23 +1,33 @@
-# CodeClauseInternship_EDA-on-iris-dataset
+# EDA-on-iris-dataset
+<br/>
 ## Introduction
 <br/>
 This repository contains an exploratory data analysis (EDA) of the Iris dataset. The Iris dataset is a classic dataset in the field of machine learning and statistics, which includes measurements of sepal length, sepal width, petal length, and petal width for three species of iris flowers: Iris setosa, Iris versicolor, and Iris virginica.
 <br/>
-Dataset
+
+## Dataset
+<br/>
 The Iris dataset consists of 150 observations, with each observation representing a flower. Each observation has four features:
 <br/>
 Sepal Length (cm)
+<br/>
 Sepal Width (cm)
+<br/>
 Petal Length (cm)
+<br/>
 Petal Width (cm)
 <br/>
 The dataset also includes a target variable which specifies the species of each flower. The three species are:
 <br/>
 Iris setosa
+<br/>
 Iris versicolor
+<br/>
 Iris virginica
 <br/>
+<br/>
 ## Requirements
+<br/>
 To run the analysis, you need the following Python packages:
 <br/>
 pandas
@@ -32,7 +42,8 @@ scikit-learn
 <br/>
 jupyter
 <br/>
-### The EDA process involves several steps:
+
+## The EDA process involves several steps:
 <br/>
 Loading the Data: Load the dataset and inspect its structure.
 <br/>
@@ -52,6 +63,7 @@ Pair plots
 <br/>
 Correlation heatmaps
 <br/>
+
 ### Key Findings
 <br/>
 Histograms: Show the distribution of each feature.
