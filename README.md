@@ -15,7 +15,7 @@ The dataset also includes a target variable which specifies the species of each 
 - Iris setosa
 - Iris versicolor
 - Iris virginica
-<br/>
+
 ## Requirements
 To run the analysis, you need the following Python packages:
 <br/>
