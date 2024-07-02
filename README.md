@@ -11,9 +11,10 @@ The Iris dataset consists of 150 observations, with each observation representin
 4. Petal Width (cm)
 <br/>
 The dataset also includes a target variable which specifies the species of each flower. The three species are:
-- Iris setosa
-- Iris versicolor
-- Iris virginica
+<br/>
+  - Iris setosa
+  - Iris versicolor
+  - Iris virginica
 <br/>
 
 ## Requirements
