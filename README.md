@@ -38,17 +38,12 @@ Descriptive Statistics: Calculate basic statistics such as mean, median, and sta
 Data Visualization: Create visualizations to understand the distribution of data and relationships between variables.
 <br/>
 - Histograms
-<br/>
 - Box plots
-<br/>
 - Scatter plots
-<br/>
 - Pair plots
-<br/>
 - Correlation heatmaps
-<br/>
 
-### Key Findings
+## Key Findings
   Histograms: Show the distribution of each feature.
 <br/>
   Scatter Matrix: Displays pairwise relationships between features.
