@@ -1,9 +1,7 @@
 # EDA-on-iris-dataset
 ## Introduction
-<br/>
 This repository contains an exploratory data analysis (EDA) of the Iris dataset. The Iris dataset is a classic dataset in the field of machine learning and statistics, which includes measurements of sepal length, sepal width, petal length, and petal width for three species of iris flowers: Iris setosa, Iris versicolor, and Iris virginica.
 <br/>
-
 ## Dataset
 <br/>
 The Iris dataset consists of 150 observations, with each observation representing a flower. Each observation has four features:
